@@ -87,4 +87,4 @@ npm start
 
 ```
 
-⚡ This project was originally inspired by a React course I took earlier this year.
+⚡ This project was originally inspired by a React course I took earlier last year.
