@@ -31,7 +31,7 @@ This app allows users to take quizzes on various topics. It keeps track of answe
 ---
 
 ## 🗂️ Folder Structure
-
+```bash
 quiz-game/
 ├── public/
 ├── src/
@@ -59,7 +59,7 @@ quiz-game/
 ├── package-lock.json
 ├── eslint.config.js
 └── README.md
-
+```
 
 
 ## 🛠️ Tech Stack
@@ -85,5 +85,6 @@ npm install
 # Start the development server
 npm start
 
+```
 
 ⚡ This project was originally inspired by a React course I took earlier this year.
